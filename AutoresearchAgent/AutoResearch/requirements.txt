@@ -1,0 +1,14 @@
+streamlit
+matplotlib
+pandas
+numpy
+requests
+beautifulsoup4
+plotly
+semanticscholar
+arxiv
+flask
+flask-cors
+python-dotenv
+groq
+gunicorn

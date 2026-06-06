@@ -1,0 +1,25 @@
+**Introduction**
+
+Agentic AI refers to a type of artificial intelligence that possesses goal-directed behavior, tool-using capabilities, and decision-making processes. This field has gained significant attention in recent years, with various researchers, policymakers, and industries exploring its potential applications and challenges. However, agentic AI also raises concerns regarding its reliability, security, and alignment with human values. This literature review aims to provide an in-depth analysis of the existing work on agentic AI, identify research gaps, and discuss future research directions.
+
+**Summary of Existing Work**
+
+1. **Regulatory Challenges of Agentic AI**: Researchers have identified the need for a comprehensive regulatory framework to address the unique challenges posed by agentic AI, particularly in the context of security and privacy.
+2. **Trustworthy AI Workflows**: Existing studies have shown that designing trustworthy AI workflows is crucial for ensuring the integrity and reliability of the system. However, traditional workflows may not be equipped to support the needs of AI agents.
+3. **Policy Alignment and Operational Predictability**: Automated planning and execution systems may not be designed to ensure policy alignment, leading to potential issues in enterprise back office workflows.
+4. **Generative AI and Information Access Systems**: Generative AI models have shown promise in transforming information access systems. However, limited research exists on the potential applications of these models and their impact on information access.
+5. **Reliability in Agentic AI Systems**: Existing frameworks may not provide a clear understanding of reliability in agentic AI systems, with a need for a structured approach to ensuring reliability.
+6. **Public Discourse on AI Ethics**: The public discourse on AI ethics is complex, with different stakeholder groups framing and perceiving concepts related to AI ethics, safety, and alignment in distinct ways.
+
+**Research Gaps**
+
+1. **Understanding the Regulatory Challenges of Agentic AI**: A comprehensive regulatory framework is needed to address the unique challenges posed by agentic AI.
+2. **Designing Trustworthy AI Workflows**: Research is required to design trustworthy AI workflows that can operate in a distributed environment, addressing the needs of AI agents and ensuring the integrity and reliability of the system.
+3. **Policy Alignment and Operational Predictability**: A clear understanding of how to achieve policy alignment and operational predictability in automated planning and execution for agentic AI systems is needed.
+4. **Generative AI and Information Access Systems**: The potential applications of generative AI models to information access systems require further research, including the emergence of new paradigms.
+5. **Reliability in Agentic AI Systems**: A clear framework for ensuring reliability in agentic AI systems is needed, including principled componentisation, disciplined interfaces, and explicit control and assurance loops.
+6. **Understanding the Public Discourse on AI Ethics**: Research is required to explore the complexities of AI ethics in practice, including how different stakeholder groups perceive and frame concepts related to AI ethics, safety, and alignment over time.
+
+**Conclusion**
+
+Agentic AI poses unique challenges regarding its reliability, security, and alignment with human values. This literature review has identified research gaps and highlighted the need for a comprehensive regulatory framework, trustworthy AI workflows, policy alignment, and operational predictability. Additionally, the potential applications of generative AI models to information access systems require further research, and a clear framework for ensuring reliability in agentic AI systems is needed. Finally, understanding the public discourse on AI ethics is crucial for ensuring that AI systems align with human values and promote societal well-being. Future research directions should aim to address these gaps and provide a deeper understanding of agentic AI and its implications for society.

@@ -1,0 +1,28 @@
+Based on the provided research summaries, here are the requested analyses:
+
+**Research Gaps**
+
+1. **Understanding the Regulatory Challenges of Agentic AI**: A research gap exists in understanding the regulatory challenges posed by agentic AI, particularly in the context of security and privacy. There is a need for a comprehensive regulatory framework to address these challenges.
+2. **Designing Trustworthy AI Workflows**: Research is required to design trustworthy AI workflows that can operate in a distributed environment, addressing the needs of AI agents and ensuring the integrity and reliability of the system.
+3. **Policy Alignment and Operational Predictability**: A gap exists in understanding how to achieve policy alignment and operational predictability in automated planning and execution for agentic AI systems, particularly in enterprise back office workflows.
+4. **Generative AI and Information Access Systems**: Research is needed to explore the potential applications of generative AI models to transform information access systems, including the emergence of new paradigms such as information generation and synthesis.
+5. **Reliability in Agentic AI Systems**: A research gap exists in understanding the reliability of agentic AI systems, with a need for a clear framework for ensuring reliability, including principled componentisation, disciplined interfaces, and explicit control and assurance loops.
+6. **Public Discourse on AI Ethics**: Research is required to explore the complexities of AI ethics in practice, including how different stakeholder groups perceive and frame concepts related to AI ethics, safety, and alignment over time.
+
+**Limitations in Existing Work**
+
+1. **Traditional Regulatory Frameworks**: Current regulatory frameworks may not be equipped to address the unique challenges posed by agentic AI, particularly in the areas of security and privacy.
+2. **Lack of Trustworthy AI Workflows**: Existing workflows may not be designed to support the needs of AI agents, leading to a lack of trustworthiness and reliability in the system.
+3. **Limited Policy Alignment**: Automated planning and execution systems may not be designed to ensure policy alignment, leading to potential issues in enterprise back office workflows.
+4. **Insufficient Understanding of Generative AI**: Limited research exists on the potential applications of generative AI models to information access systems, including the emergence of new paradigms.
+5. **Reliability in Agentic AI Systems**: Existing frameworks may not provide a clear understanding of reliability in agentic AI systems, with a need for a structured approach to ensuring reliability.
+6. **Public Discourse on AI Ethics**: The public discourse on AI ethics is complex, with different stakeholder groups framing and perceiving concepts related to AI ethics, safety, and alignment in distinct ways.
+
+**Future Research Directions**
+
+1. **Developing Regulatory Frameworks for Agentic AI**: Future research should focus on developing comprehensive regulatory frameworks to address the unique challenges posed by agentic AI.
+2. **Designing Trustworthy AI Workflows**: Research should explore the design of trustworthy AI workflows that can operate in a distributed environment, addressing the needs of AI agents and ensuring the integrity and reliability of the system.
+3. **Achieving Policy Alignment and Operational Predictability**: Future research should aim to understand how to achieve policy alignment and operational predictability in automated planning and execution for agentic AI systems.
+4. **Exploring the Potential of Generative AI**: Research should investigate the potential applications of generative AI models to transform information access systems, including the emergence of new paradigms.
+5. **Ensuring Reliability in Agentic AI Systems**: Future research should provide a clear framework for ensuring reliability in agentic AI systems, including principled componentisation, disciplined interfaces, and explicit control and assurance loops.
+6. **Understanding the Public Discourse on AI Ethics**: Research should explore the complexities of AI ethics in practice, including how different stakeholder groups perceive and frame concepts related to AI ethics, safety, and alignment over time.
