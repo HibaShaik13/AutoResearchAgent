@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: autoresearch-api
+    env: python
+    buildCommand: "cd AutoResearch && pip install -r requirements.txt"
+    startCommand: "cd AutoResearch && gunicorn api_server:app"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: GROQ_API_KEY
+        sync: false

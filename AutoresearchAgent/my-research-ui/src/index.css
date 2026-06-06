@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-deep text-slate-100 font-body antialiased;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply rounded-xl border border-cyan-accent/20 bg-card/80 backdrop-blur-sm shadow-neon;
+  }
+  .tab-active {
+    @apply border-cyan-accent text-cyan-accent bg-cyan-accent/10;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-gradient-to-r from-cyan-accent/90 to-purple-accent/90 px-5 py-2.5 font-semibold text-deep transition hover:opacity-90 disabled:opacity-50;
+  }
+  .btn-outline {
+    @apply inline-flex items-center gap-2 rounded-lg border border-cyan-accent/40 px-4 py-2 text-cyan-accent transition hover:bg-cyan-accent/10;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 245, 255, 0.25);
+  border-radius: 4px;
+}
